@@ -15,6 +15,7 @@ html{
 #myCanvas {
   border-radius: 30px;
   border: 15px double #8bbcbbff;
+  background-image:linear-gradient(to bottom ,black,rgb(97, 79, 53))
 }
 
 .container{
